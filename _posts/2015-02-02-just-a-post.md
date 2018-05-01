@@ -1,0 +1,19 @@
+---
+ID: 9950
+post_title: Audio post example
+author: admin
+post_excerpt: ""
+layout: post
+permalink: >
+  http://animate.milochka.by/2015/02/02/just-a-post/
+published: true
+post_date: 2015-02-02 09:35:25
+---
+[caption id="attachment_20248" align="alignnone" width="1280"]<img class="wp-image-20248 size-full" src="http://animate.milochka.by/wp-content/uploads/2015/02/bee.jpg" width="1280" height="736" /> The Bee Gees have sold more than 220 million records worldwide, making them one of the world’s best-selling music artists of all time. They were inducted into the Rock and Roll Hall of Fame in 1997.[/caption]
+
+The <b>Bee Gees</b> were a pop music group formed in 1958. Their line-up consisted of brothers <a title="Barry Gibb" href="https://en.wikipedia.org/wiki/Barry_Gibb">Barry</a>, <a title="Robin Gibb" href="https://en.wikipedia.org/wiki/Robin_Gibb">Robin</a> and <a title="Maurice Gibb" href="https://en.wikipedia.org/wiki/Maurice_Gibb">Maurice Gibb</a>. The trio were successful for most of their decades of recording music, but they had two distinct periods of exceptional success; as a popular music act in the late 1960s and early 1970s, and as prominent performers of the disco music era in the late 1970s. The group sang recognisable three-part tight harmonies; Robin's clear vibrato lead vocals were a hallmark of their earlier hits, while Barry's <a title="Rhythm and blues" href="https://en.wikipedia.org/wiki/Rhythm_and_blues">R&amp;B</a> <a title="Falsetto" href="https://en.wikipedia.org/wiki/Falsetto">falsetto</a> became their signature sound during the late 1970s and 1980s. <span style="text-decoration: underline;">They wrote all of their own hits, as well as writing and producing several major hits for other artists.</span>
+<blockquote class="dfd-textmodule-blockquote">Only Elvis Presley, the Beatles, Michael Jackson, Garth Brooks and Paul McCartney have outsold the Bee Gees.
+<div class="slug">Bee Gees</div></blockquote>
+<strong>Born on the Isle of Man to English parents</strong>, the Gibb brothers lived in <a title="Chorlton-cum-Hardy" href="https://en.wikipedia.org/wiki/Chorlton-cum-Hardy">Chorlton</a>, <a title="Manchester" href="https://en.wikipedia.org/wiki/Manchester">Manchester</a>, England, until the late 1950s where they formed the <a title="The Rattlesnakes (1955 band)" href="https://en.wikipedia.org/wiki/The_Rattlesnakes_(1955_band)">Rattlesnakes</a>. The family then moved to <a title="Redcliffe, Queensland" href="https://en.wikipedia.org/wiki/Redcliffe,_Queensland">Redcliffe</a>, in Queensland, Australia, and then to Cribb Island. After achieving their first chart success in Australia as the Bee Gees with "<a title="Spicks and Specks (song)" href="https://en.wikipedia.org/wiki/Spicks_and_Specks_(song)">Spicks and Specks</a>" (their 12th single), they returned to the UK in January 1967 where producer <a title="Robert Stigwood" href="https://en.wikipedia.org/wiki/Robert_Stigwood">Robert Stigwood</a> began promoting them to a worldwide audience.
+
+<q class="dfd-textmodule-featured-quote">The Bee Gees have sold more than 220 million records worldwide</q>Making them one of the world's best-selling music artists of all time. They were inducted into the <a title="Rock and Roll Hall of Fame" href="https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame">Rock and Roll Hall of Fame</a> in 1997; the presenter of the award to "Britain's first family of harmony" was <a title="Brian Wilson" href="https://en.wikipedia.org/wiki/Brian_Wilson">Brian Wilson</a>, historical leader of <a title="The Beach Boys" href="https://en.wikipedia.org/wiki/The_Beach_Boys">the Beach Boys</a>, a "family act" also featuring three harmonising brothers. The Bee Gees' Hall of fame citation says "<span style="text-decoration: underline;">Only Elvis Presley, the Beatles, Michael Jackson, Garth Brooks and Paul McCartney have outsold the Bee Gees.</span>"

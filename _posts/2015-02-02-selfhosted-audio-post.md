@@ -1,0 +1,22 @@
+---
+ID: 130
+post_title: Selfhosted audio post
+author: admin
+post_excerpt: ""
+layout: post
+permalink: >
+  http://animate.milochka.by/2015/02/02/selfhosted-audio-post/
+published: true
+post_date: 2015-02-02 08:36:47
+---
+[caption id="attachment_20250" align="alignnone" width="1280"]<img class="wp-image-20250 size-full" src="http://animate.milochka.by/wp-content/uploads/2015/02/jimmy1.jpg" width="1280" height="736" /> Hendrix flashed a peace sign at the start of his performance of “The Star-Spangled Banner” at Woodstock, August 18, 1969.[/caption]
+
+<b>James Marshall</b> <b>Jimi</b> <b>Hendrix</b> was an American rock guitarist, singer, and songwriter. Although his mainstream career spanned only four years, he is widely regarded as one of the most influential electric guitarists in the history of popular music, and one of the most celebrated musicians of the 20th century. The Rock and <span style="text-decoration: underline;">Roll Hall of Fame</span> describes him as "arguably the greatest instrumentalist in the history of rock music".
+<blockquote class="dfd-textmodule-blockquote">Music doesn't lie. If there is something to be changed in this world, then it can only happen through music.
+<div class="slug">James Marshall Hendrix</div></blockquote>
+Born in Seattle, Washington, Hendrix began playing guitar at the age of 15. In 1961, he enlisted in the US Army and trained as a paratrooper in the 101st Airborne Division; he was granted an honorable discharge the following year. Soon afterward, he moved to Clarksville, Tennessee, and began playing gigs on the chitlin' circuit, earning a place in the Isley Brothers' backing band and later with Little Richard, with whom he continued to work through mid-1965. He then played with Curtis Knight and the Squires before moving to England in late 1966 after being discovered by Linda Keith, who in turn interested bassist <a href="http://nativewptheme.net/home/">Chas Chandler</a> of the Animals in becoming his first manager. Within months, Hendrix had earned three UK top ten hits with the Jimi Hendrix Experience: "Hey Joe", "Purple Haze", and "The Wind Cries Mary". He achieved fame in the US after his performance at the Monterey Pop Festival in 1967, and in 1968 his third and final studio album, <i>Electric Ladyland</i>, reached number one in the US; it was Hendrix's most commercially successful release and his first and only number one album. The world's highest-paid performer, he headlined the <a href="http://nativewptheme.net/home/">Woodstock Festival </a>in 1969 and the Isle of Wight Festival in 1970 before <a href="http://nativewptheme.net/home/">his accidental death</a> from barbiturate-related asphyxia on September 18, 1970, at the age of 27.
+
+<q class="dfd-textmodule-featured-quote">Hendrix was inspired musically
+by American rock and roll and electric blues.</q> He favored overdriven amplifiers with high volume and gain, and was instrumental in utilizing the previously undesirable sounds caused byguitar amplifier feedback. He helped to popularize the use of a wah-wah pedal in mainstream rock, and was the first artist to use stereophonic phasing effects in music recordings. <a href="http://nativewptheme.net/home/">Holly George</a>-Warren of <i>Rolling Stone</i>commented: "Hendrix pioneered the use of the instrument as an electronic sound source. Players before him had experimented with feedback and distortion, but Hendrix turned those effects and others into a controlled, fluid vocabulary every bit as personal as the blues with which he began."
+
+Hendrix was the recipient of several music awards during his lifetime and posthumously. In 1967, readers of <i>Melody Maker</i> voted him the Pop Musician of the Year, and in 1968, <i>Rolling Stone</i> declared him the Performer of the Year. <i>Disc and Music Echo</i> honored him with the World Top Musician of 1969 and in 1970, <i>Guitar Player</i> named him the Rock Guitarist of the Year. The Jimi Hendrix Experience was inducted into the Rock and Roll Hall of Fame in 1992 and the <a href="http://nativewptheme.net/home/">UK Music Hall of Fame</a> in 2005. <i>Rolling Stone</i> ranked the band's three studio albums, <i>Are You Experienced</i>, <i>Axis: Bold as Love</i>, and <i>Electric Ladyland</i>, among the <span style="text-decoration: underline;">100 greatest albums of all time</span>, and they ranked Hendrix as the greatest guitarist and the sixth greatest artist of all time.
